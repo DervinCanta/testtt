@@ -1,0 +1,11 @@
+Model Information:
+* title:	2023 BYD Seagull
+* source:	https://sketchfab.com/3d-models/2023-byd-seagull-33660cc157df4e2485ae37e8235041b7
+* author:	Nazh Design ✔ (https://sketchfab.com/NazhDesign)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2023 BYD Seagull" (https://sketchfab.com/3d-models/2023-byd-seagull-33660cc157df4e2485ae37e8235041b7) by Nazh Design ✔ (https://sketchfab.com/NazhDesign) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
